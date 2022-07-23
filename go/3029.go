@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func main() {
+func Func3029() {
 	var input1 string
 	fmt.Scanln(&input1)
 	var input2 string

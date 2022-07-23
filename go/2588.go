@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main()  {
+func Func2588()  {
 	var input1 int32
 	fmt.Scanln(&input1)
 	var input2 string

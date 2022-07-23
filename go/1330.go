@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Func1330() {
 	
 	var a int32
 	var b int32
