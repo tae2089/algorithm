@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Func10950() {
 	var testCase int
 	fmt.Scanln(&testCase)
 	
